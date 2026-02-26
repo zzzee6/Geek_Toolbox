@@ -1,4 +1,4 @@
-GeekToolbox v7.0
+（GeekToolbox v7.0
 Lightweight Android Partition Backup &amp; Restore Tool | Full Compatibility with Traditional / AB / VAB / AVB Devices
 
 A ROOT-exclusive tool written purely in Shell, developed with AI assistance. It supports safe backup, restoration, and verification of boot partitions and EFS/modem partitions, automatically adapts to device partition types, features an interactive menu operation, requires no complex commands, is lightweight without redundancy, and is fully compatible with the sh environment for direct execution.
@@ -108,9 +108,19 @@ Running this script means you have carefully read and agreed to all terms of thi
 ---
 
 ## Adaptation Description
-Compatible with all Android 10+ versions, tested and supported Magisk 26+/KernelSU 0.9+, and fully tested and passed for VAB/AVB devices.
+
+Compatible with Android 10+, tested with Magisk 26+/KernelSU 0.9+
+
+| Architecture | Status | Tested Device |
+|-------------|--------|---------------|
+| VAB (Android 12+) | ✅ Verified | OnePlus Ace 2 Pro |
+| A/B | ❓ Theoretically supported, unverified | - |
+| Legacy | ❓ Theoretically supported, unverified | - |
+
+If you test on A/B or legacy devices, please report success/failure in [GitHub Issues](../../issues).
 
 ## Development Description
-The Shell script code and documentation of this tool are developed and written with AI assistance, and released after manual debugging and actual device verification.
+
+The shell script code of this tool is developed and compiled with the assistance of AI, and released after manual debugging and actual measurement verification.
 
 [中文说明 | Chinese README](README_CN.md)
