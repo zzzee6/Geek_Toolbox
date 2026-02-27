@@ -121,6 +121,6 @@ If you test on A/B or legacy devices, please report success/failure in [GitHub I
 
 ## Development Description
 
-The shell script code of this tool is developed and compiled with the assistance of AI, and released after manual debugging and actual measurement verification.
+Developed with AI assistance, manually reviewed and tested.
 
 [中文说明 | Chinese README](README_CN.md)
