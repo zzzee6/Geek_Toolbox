@@ -115,7 +115,7 @@ Compatible with Android 10+, tested with Magisk 26+/KernelSU 0.9+
 |-------------|--------|---------------|
 | VAB (Android 12+) | ✅ Verified | OnePlus Ace 2 Pro |
 | A/B | ❓ Theoretically supported, unverified | - |
-| Legacy | ❓ Theoretically supported, unverified | - |
+| Legacy | ✅ Verified | MI8 |
 
 If you test on A/B or legacy devices, please report success/failure in [GitHub Issues](../../issues).
 
