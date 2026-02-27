@@ -1,4 +1,4 @@
-（GeekToolbox v7.0
+Geek_Toolbox
 Lightweight Android Partition Backup &amp; Restore Tool | Full Compatibility with Traditional / AB / VAB / AVB Devices
 
 A ROOT-exclusive tool written purely in Shell, developed with AI assistance. It supports safe backup, restoration, and verification of boot partitions and EFS/modem partitions, automatically adapts to device partition types, features an interactive menu operation, requires no complex commands, is lightweight without redundancy, and is fully compatible with the sh environment for direct execution.
